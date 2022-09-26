@@ -231,13 +231,6 @@ body {
     margin-top: var(--set-gap);
 }
 
-.member-data{
-    padding-top: 20px;
-    padding-right: 24px;
-    padding-bottom: 20px;
-    padding-left: 24px;
-}
-
 .block-title{
     font-weight: 700;
     font-size: 14px;
@@ -298,13 +291,6 @@ body {
     box-shadow:var(--set-shadow)
   }
 
-.member-data{
-    padding-top: 20px;
-    padding-right: 24px;
-    padding-bottom: 20px;
-    padding-left: 24px;
-}
-
 .team-member{
     font-weight: 500;
     font-size: 16px;
@@ -314,9 +300,7 @@ body {
 
 .member-data{
     padding-top: 30px;
-    padding-left: 70px;
     padding-bottom: 30px;
-    padding-right: 70px;
     background-color: var(--secondary-color3);
 }
 
@@ -327,15 +311,12 @@ body {
     line-height: 1.2;
     color: var(--primmary-text-color);
 }
-/*Fooer*/
-.footer{
-    margin-right: auto;
-    background-color:var(--secondary-color1);
-}
+/*Footer*/
 
-.footer-data{
+.footer{
     padding-top: 60px;
     padding-bottom: 60px;
+    background-color:var(--secondary-color1);
 }
 
 .footer-contacts{
@@ -370,7 +351,7 @@ body {
 .portfolio{
     padding-top: 94px;
     padding-bottom: 94px;
-    background-color: var(--primary-bg-color);
+    background-color: var(--secondary-color3);
 }
 
 /* Filter*/
